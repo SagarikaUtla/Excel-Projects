@@ -9,6 +9,3 @@
 - Dashboard.xlsx
 - Screenshots/
 
-## Key Insights:
-- Avg delivery time: 12 mins
-- Most orders from Mumbai region
